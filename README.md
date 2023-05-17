@@ -1,1 +1,2 @@
-this is my first repository creaed on github 
+ make sure you enjoy it 
+ make sure you enjoy it 
